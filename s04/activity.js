@@ -4,7 +4,7 @@
     "name" : "HTML Basics",
     "price" : 20000,
     "isActive" : false,
-    "instructor" : "Sir Alvins"
+    "instructor" : "Sir Alvin"
 }
 
 /* 2 */
