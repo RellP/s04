@@ -1,7 +1,7 @@
 /* 1 */
 {
     "_id" : 312456,
-    "EmployeeName" : "Joongkuk Jeon",
+    "EmployeeName" : "Joongkuk",
     "EmployeeAge" : 28,
     "JobRole" : "Store Manager",
     "Salary" : 120000
@@ -9,7 +9,7 @@
 /* 2 */
 {
     "_id" : 345342,
-    "EmployeeName" : "Joongki Song",
+    "EmployeeName" : "Jin Kim",
     "EmployeeAge" : 25,
     "JobRole" : "Store Associate",
     "Salary" : 45000
@@ -17,7 +17,7 @@
 /* 3 */
 {
     "_id" : 334566,
-    "EmployeeName" : "Jin Kim",
+    "EmployeeName" : "Joongki",
     "EmployeeAge" : 35,
     "JobRole" : "Cashier",
     "Salary" : 67500
