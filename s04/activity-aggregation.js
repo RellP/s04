@@ -1,7 +1,7 @@
 /* 1 */
 {
     "_id" : 312456,
-    "EmployeeName" : "Joongkuk",
+    "EmployeeName" : "Rafael",
     "EmployeeAge" : 28,
     "JobRole" : "Store Manager",
     "Salary" : 120000
@@ -9,7 +9,7 @@
 /* 2 */
 {
     "_id" : 345342,
-    "EmployeeName" : "Jin Kim",
+    "EmployeeName" : "Dionn",
     "EmployeeAge" : 25,
     "JobRole" : "Store Associate",
     "Salary" : 45000
@@ -17,7 +17,7 @@
 /* 3 */
 {
     "_id" : 334566,
-    "EmployeeName" : "Joongki",
+    "EmployeeName" : "Giann",
     "EmployeeAge" : 35,
     "JobRole" : "Cashier",
     "Salary" : 67500
@@ -25,7 +25,7 @@
 /* 4 */
 {
     "_id" : 245345,
-    "EmployeeName" : "Hyekyo Song",
+    "EmployeeName" : "Raymon",
     "EmployeeAge" : 40,
     "JobRole" : "Senior Cashier",
     "Salary" : 72500
@@ -33,7 +33,7 @@
 /* 5 */
 {
     "_id" : 445364,
-    "EmployeeName" : "Tae Hyung Kim",
+    "EmployeeName" : "Micaela",
     "EmployeeAge" : 22,
     "JobRole" : "Store Associate",
     "Salary" : 35000
@@ -42,7 +42,7 @@
 /* 1 */
 {
     "_id" : "LS0000123",
-    "Name" : "XYZ Chocolate Bar - 100g",
+    "Name" : "NIPS Chocolate Bar - 100g",
     "Price" : 5.23,
     "Quantity" : 25000,
     "Category" : [ 
